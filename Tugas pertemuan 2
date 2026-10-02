@@ -1,0 +1,7 @@
+Mulai
+Input bilangan A
+Jika A MOD 2 = 0 maka
+Tampilkan "Genap"
+Jika tidak
+Tampilkan "Ganjil"
+Selesai
